@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="tab_text_1">Add Student</string>
+    <string name="tab_text_2">Modify Student</string>
+    <string name="tab_text_3">Student Details</string>
+    <string name="tab_text_4">Add Fee</string>
+    <string name="tab_text_5">Fee Details</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

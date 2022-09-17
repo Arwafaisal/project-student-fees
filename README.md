@@ -1,0 +1,2 @@
+# project-student-fees
+ Develop an Android program related to Student fees management system consisting of Homepage, login page and features of the app are students can check their fee details, due fees, and date etc., through app along with database. Student Fees Management System tracks all the details of a student from the day one to the end of his course which can be useful for all reporting purpose, tracking enrolment, status and all these will be available for future references too.
