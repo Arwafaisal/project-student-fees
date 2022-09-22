@@ -41,7 +41,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
 
         if(i.getStringExtra("admin") != null)
         {
-
+            //Admin username: Admin, Password:1234;
         }
         else
         {
